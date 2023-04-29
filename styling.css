@@ -8,11 +8,17 @@
 }
 
 #foto1 {
-    width: 100%;
+    width: 75%;
       height: auto;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+    display: ruby-base;
+    margin-left: 100px;
+    margin-right: 100PX;
+    align-self: center;
+    padding-top: 5%;
+    padding-left: 5%;
+    padding-bottom: 5%;
+    padding-right: 5%;
+    
 }
 
 ul {
@@ -67,4 +73,16 @@ th {
 }
 .Festa {
     color: white;
-} 
+}
+ #box {
+    border: solid 2px black;
+    width: 200px;
+    padding: 20px;
+color:#247BA0
+}
+#lule{
+    color:black;
+    border: solid 2px black;
+    text-align: center;
+
+}
